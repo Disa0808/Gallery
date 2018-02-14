@@ -1,0 +1,17 @@
+
+.jumbotron {
+    color: #2c3e50;
+}
+
+.navbar-dark {
+    background: #2c3e50;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color:white;
+    opacity: 1;
+}
+
+.jumbotron {
+    padding-top: 100px !important;
+}
